@@ -1,4 +1,4 @@
-# Trello birtyear calculator
+# Trello birthyear calculator
 
 DOR:
 
